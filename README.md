@@ -16,7 +16,7 @@ I am Ichsan Wahyu Pradana, a Quality Assurance Engineer & Software Engineer.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Automation with Javascript, Webdriver.io, Nightwatch.js, etc.
+- 🛠 &nbsp; I’m currently working on Automation with Javascript, <br /> Webdriver.io, Nightwatch.js, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/prdnaw).
 - 💬 &nbsp; Ask me about anything [here](https://prdnaw.my.id/)! I am happy to help.
